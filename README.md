@@ -114,22 +114,15 @@ Project Structure
 
 
 vpn_aware_ids/
-│
-├── app/
-│   └── app.py
-│
-├── scripts/
-│
-├── data/
-│   └── uploads/
-│
-├── .streamlit/
-│
-├── requirements.txt
-│
-├── .gitignore
-│
-└── README.md
+ app/
+ app.py
+ scripts/
+ data/
+ uploads/
+.streamlit/
+ requirements.txt
+.gitignore
+ README.md
 
 
 
